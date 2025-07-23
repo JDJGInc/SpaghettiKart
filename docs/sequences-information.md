@@ -30,7 +30,7 @@
 
 | Description                 | Audio File Name          |
 | --------------------------- | ------------------------ |
-| Special command for sound fx  | `sound_player`                 |
+| Special command for sound fx  | `sound_player`         |
 | Title Screen                | `title_screen`           |
 | Main Screen / Select Screen | `main_menu`              |
 | Start Grid GP/VS            | `start_grid_gp_vs`       |
@@ -38,7 +38,7 @@
 | Finish 1st Place            | `finish_1st_place`       |
 | Finish 2nd–4th Place        | `finish_2nd_4th_place`   |
 | Finish 5th–8th Place        | `finish_5th_8th_place`   |
-| Winning Results             | `winning_results`                 |
+| Winning Results             | `winning_results`        |
 | Star Jingle                 | `star_jingle`            |
 | Game Over                   | `game_over`              |
 | Start Grid Time Attack      | `start_gird_time_attack` |
