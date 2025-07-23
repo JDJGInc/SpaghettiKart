@@ -23,8 +23,8 @@
 | Battle Course Name | Audio File Name |
 | ------------------ | --------------- |
 | Big Donut          | `battle_arenas` |
-| Block Fort         | `battle_arenas` |
-| Double Deck        | `battle_arenas` |
+| Block Fort         | `choco_mountain` |
+| Double Deck        | `choco_mountain` |
 | Skyscraper         | `battle_arenas` |
 
 
