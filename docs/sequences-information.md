@@ -2,7 +2,7 @@
 
 ## Race Tracks
 
-| Track Name            | Audio File Name             |
+| Track Name            | Audio Filename             |
 | --------------------- | --------------------------- |
 | Banshee Boardwalk     | `banshee_boardwalk`         |
 | Bowser's Castle (N64) | `bowsers_castle`            |
@@ -24,7 +24,7 @@
 ## Battle Courses
 
 
-| Battle Course Name | Audio File Name |
+| Battle Course Name | Audio Filename |
 | ------------------ | --------------- |
 | Big Donut          | `battle_arenas` |
 | Block Fort         | `choco_mountain` |
@@ -34,7 +34,7 @@
 ## General
 
 
-| Description                 | Audio File Name          |
+| Description                 | Audio Filename          |
 | --------------------------- | ------------------------ |
 | Special command for sound fx  | `sound_player`         |
 | Title Screen                | `title_screen`           |
