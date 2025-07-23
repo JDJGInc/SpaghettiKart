@@ -1,4 +1,4 @@
-seq_00:
+sound_player:
   type: NAUDIO:V0:SEQUENCE
   id: 0
   size: 0x2830

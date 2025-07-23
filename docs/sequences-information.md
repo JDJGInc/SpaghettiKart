@@ -30,7 +30,7 @@
 
 | Description                 | Audio File Name          |
 | --------------------------- | ------------------------ |
-| Special command for sound fx  | `seq_00`                 |
+| Special command for sound fx  | `sound_player`                 |
 | Title Screen                | `title_screen`           |
 | Main Screen / Select Screen | `main_menu`              |
 | Start Grid GP/VS            | `start_grid_gp_vs`       |
