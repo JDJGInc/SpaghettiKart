@@ -10,7 +10,6 @@
 | Kalimari Desert       | `kalimari_desert`           |
 | Koopa Troopa Beach    | `koopa_troopa_beach`        |
 | Luigi Raceway         | `raceways_wario_stadium`    |
-| Mario Circuit         | `raceways_wario_stadium`    |
 | Mario Raceway         | `raceways_wario_stadium`    |
 | Moo Moo Farm          | `moo_moo_farm_yoshi_valley` |
 | N64 Rainbow Road      | `rainbow_road`              |
