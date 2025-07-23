@@ -1,4 +1,4 @@
-# Sequence Information
+# Sequence Information (Music)
 
 | Track Name            | Audio File Name             |
 | --------------------- | --------------------------- |
@@ -30,7 +30,7 @@
 
 | Description                 | Audio File Name          |
 | --------------------------- | ------------------------ |
-| seq\_00 (unknown) - quiet?  | `seq_00`                 |
+| Special command for sound fx  | `seq_00`                 |
 | Title Screen                | `title_screen`           |
 | Main Screen / Select Screen | `main_menu`              |
 | Start Grid GP/VS            | `start_grid_gp_vs`       |
