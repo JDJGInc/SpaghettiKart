@@ -10,6 +10,6 @@ textures_pack.zip
 ```
 
 ## Future plans
-* Make name more meaningful and uniform. (example: change `seq_16`). You can suggest name or make a PR to help rename them/organise them.
+* Make name more meaningful and uniform. (example: change `winning_results`). You can suggest name or make a PR to help rename them/organise them.
 * Support samples.
 * Create a tool to convert sequences and samples.
