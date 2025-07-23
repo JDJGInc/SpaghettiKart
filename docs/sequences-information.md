@@ -1,5 +1,7 @@
 # Sequence Information (Music)
 
+## Race Tracks
+
 | Track Name            | Audio File Name             |
 | --------------------- | --------------------------- |
 | Banshee Boardwalk     | `banshee_boardwalk`         |
@@ -19,6 +21,8 @@
 | Toad's Turnpike       | `toads_turnpike`            |
 | Yoshi Valley          | `moo_moo_farm_yoshi_valley` |
 
+## Battle Courses
+
 
 | Battle Course Name | Audio File Name |
 | ------------------ | --------------- |
@@ -26,6 +30,8 @@
 | Block Fort         | `choco_mountain` |
 | Double Deck        | `choco_mountain` |
 | Skyscraper         | `battle_arenas` |
+
+## General
 
 
 | Description                 | Audio File Name          |
