@@ -13,3 +13,4 @@ textures_pack.zip
 * Make name more meaningful and uniform. (example: change `winning_results`). You can suggest name or make a PR to help rename them/organise them.
 * Support samples.
 * Create a tool to convert sequences and samples.
+* Modify the way music is handled that way each track gets its own sequence. There is a current issue where `moo_moo_farm_yoshi_valley` share the same sequence file. Block Fort and Double Deck both share a song with `choco_mountain`.
