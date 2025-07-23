@@ -217,7 +217,7 @@ namespace Editor {
             case MUSIC_SEQ_FINISH_1ST_PLACE: return "Finish 1st Place";
             case MUSIC_SEQ_FINISH_2ND_4TH_PLACE: return "Finish 2nd-4th Place";
             case MUSIC_SEQ_FINISH_5TH_8TH_PLACE: return "Finish 5th-8th Place";
-            case MUSIC_SEQ_16: return "16";
+            case MUSIC_SEQ_WINNING_RESULTS: return "Winning Results";
             case MUSIC_SEQ_STAR_JINGLE: return "Star Jingle";
             case MUSIC_SEQ_RAINBOW_ROAD: return "Rainbow Road";
             case MUSIC_SEQ_DK_JUNGLE: return "DK Jungle";

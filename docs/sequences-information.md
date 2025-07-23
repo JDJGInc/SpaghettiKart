@@ -38,7 +38,7 @@
 | Finish 1st Place            | `finish_1st_place`       |
 | Finish 2nd–4th Place        | `finish_2nd_4th_place`   |
 | Finish 5th–8th Place        | `finish_5th_8th_place`   |
-| 16 (Unknown)                | `seq_16`                 |
+| Winning Results             | `winning_results`                 |
 | Star Jingle                 | `star_jingle`            |
 | Game Over                   | `game_over`              |
 | Start Grid Time Attack      | `start_gird_time_attack` |

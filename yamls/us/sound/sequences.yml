@@ -126,7 +126,7 @@ finish_5th_8th_place:
   banks:
     - sound/banks/bank_11
 
-seq_16:
+winning_results:
   type: NAUDIO:V0:SEQUENCE
   id: 16
   size: 0x1410
